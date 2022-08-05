@@ -16,10 +16,11 @@ class TestNextBus(unittest.TestCase):
         resp = requests.get(BASEURL.format('Routes'))
         assert_true(resp.ok)
 
+
     def test_parse_datetime(self):
-        testDate1 = "/Date(1659664620000-0500)/"
-        testDate2 = "/Date(1659664620000+0500)/"
-        testDate3 = "/Date(1659664620000)/"
+        testDate1 = "/Date(1659664620000-0500)/" # For data type with timezone -05 hours
+        testDate2 = "/Date(1659664620000+0500)/" # For data type with timezone +05 hours
+        testDate3 = "/Date(1659664620000)/"      # For data type without timezone   
         print(type(FindNextBus.parse_datetime(self,testDate1)))
         self.assertEqual(type(FindNextBus.parse_datetime(self,testDate1)),int)
         self.assertEqual(type(FindNextBus.parse_datetime(self,testDate2)),int)

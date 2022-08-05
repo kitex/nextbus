@@ -29,6 +29,8 @@ It contains two test cases
 - Test case to test 3rd party API response is okay
 - Test case for date time parser
 
+### Output is in doc folder
+
 It is not exhaustive list of test cases. 
 ### Todo 
 - Test cases for json response for all external components
