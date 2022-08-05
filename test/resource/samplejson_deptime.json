@@ -1,0 +1,16 @@
+[
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '8: 57', 'DepartureTime': '/Date(1659664620000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    },
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '9: 12', 'DepartureTime': '/Date(1659665520000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    },
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '9: 27', 'DepartureTime': '/Date(1659666420000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    },
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '9: 42', 'DepartureTime': '/Date(1659667320000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    },
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '9: 57', 'DepartureTime': '/Date(1659668220000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    },
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '10: 12', 'DepartureTime': '/Date(1659669120000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    },
+    {'Actual': False, 'BlockNumber': 0, 'DepartureText': '10: 40', 'DepartureTime': '/Date(1659670800000-0500)/', 'Description': 'to Mall of America', 'Gate': '1', 'Route': 'Blue', 'RouteDirection': 'SB', 'Terminal': None, 'VehicleHeading': 0, 'VehicleLatitude': 0, 'VehicleLongitude': 0
+    }
+]
